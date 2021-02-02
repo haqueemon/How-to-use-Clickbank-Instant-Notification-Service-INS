@@ -61,3 +61,7 @@ Clickbank INS response their data in a specific php file. For example : my php f
         $upsellSession = $order->{'upsell'}->{'upsellSession'};
         $upsellPath = $order->{'upsell'}->{'upsellPath'};
     }
+    
+    ?>
+
+> NB : > Check `example.php` to know how to use this response data with row php & mysql database.
