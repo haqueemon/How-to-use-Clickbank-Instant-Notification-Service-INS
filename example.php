@@ -12,7 +12,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-$secretKey = "4AFSBVARANASII";
+$secretKey = "abcdefghijkl"; // Here you need to put your clickbank secret key
 $message = json_decode(file_get_contents('php://input'));
 $encrypted = $message->{'notification'};
 $iv = $message->{'iv'};
