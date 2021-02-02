@@ -1,4 +1,4 @@
-# Clickbank INS (Instant Notification)     
+# Clickbank INS (Instant Notification Service)     
 
 I'm sharing with you, how Clickbank response their Instant notification(INS) for upsell flows or any type of Instant response from Clickbank.
 
