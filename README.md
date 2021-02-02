@@ -1,1 +1,1 @@
-# How-to-use-Clickbank-Instant-notification---INS
+# How-to-use-Clickbank-Instant-notification-INS
